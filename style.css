@@ -84,16 +84,30 @@
   font-weight: 600;
 }
 
+/* .social-media-icon {
+  display: flex;
+} */
+
 .social-media-icon {
   display: flex;
+  align-items: center;
+  gap: 1.2rem;
 }
+
+.social-media {
+  padding: 0;
+}
+
 
 .social-media-icon li {
   list-style-type: none;
 }
 
-.social-media {
+/* .social-media {
   padding: 10px;
   color: rgba(80, 95, 121, 1);
   font-weight: 900;
+} */
+ .logo{
+  text-decoration:none
 }
